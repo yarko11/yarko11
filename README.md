@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yarko11
-- 👀 I’m interested in Python, Web Development, Books and everything)
+- 👀 I’m interested in Web Development, Books and everything)
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
